@@ -16,4 +16,4 @@ npm install --legacy-peer-deps
 
 5. The localhost , network link will be shown in the terminal. Use it to preview the website
 
-5. prefer vs vode for runnung the project
+6. prefer vs vode for runnung the project
